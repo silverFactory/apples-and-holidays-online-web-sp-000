@@ -84,6 +84,7 @@ def all_holidays_with_bbq(holiday_hash)
      #add holiday name to bbq_array
      bbq_array << holiday
    end
+   end
   end
   bbq_array
 end
